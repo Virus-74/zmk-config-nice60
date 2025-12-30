@@ -1,6 +1,6 @@
 if SHIELD_NICE60
 
 config ZMK_KEYOBARD_NAME
-    defailt "nice60"
+    default "nice60"
 
 endif
